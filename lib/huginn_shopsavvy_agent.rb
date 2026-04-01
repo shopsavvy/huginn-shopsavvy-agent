@@ -1,0 +1,4 @@
+require 'huginn_shopsavvy_agent/shopsavvy_api_client'
+require 'huginn_shopsavvy_agent/shopsavvy_product_lookup_agent'
+require 'huginn_shopsavvy_agent/shopsavvy_price_monitor_agent'
+require 'huginn_shopsavvy_agent/shopsavvy_deal_discovery_agent'
